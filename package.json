@@ -1,8 +1,8 @@
 {
-  "name": "carsonsgit.github.io",
+  "name": "www.hacdex.com",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://carsonsgit.github.io",
+  "homepage": "https://www.hacdex.com",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
     "@fortawesome/free-brands-svg-icons": "^6.6.0",
